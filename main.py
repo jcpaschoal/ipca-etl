@@ -1,4 +1,4 @@
-from etl import create_report, transform_mocked_data, generate_mocked_data
+from etl import create_report_job, transform_mocked_data, generate_mocked_data
 import os
 
 if __name__ == "__main__":
@@ -6,8 +6,8 @@ if __name__ == "__main__":
     input_path = os.path.join(current_dir, "input")
     output_path = os.path.join(current_dir, "output")
 
-    user_data = generate_mocked_data.generate_user_data(3000)
-    logs_data = generate_mocked_data.generate_log_data(user_data, 300000)
+    user_data = generate_mocked_data.generate_user_data(500)
+    logs_data = generate_mocked_data.generate_log_data(user_data, 20000)
 
     generate_mocked_data.save_user_to_csv(user_data, "user.csv", path=input_path)
     generate_mocked_data.save_log_to_csv(logs_data, "event.csv", path=input_path)
@@ -20,4 +20,9 @@ if __name__ == "__main__":
 
     user_xlsx = os.path.join(output_path, "user.xlsx")
     event_xlsx = os.path.join(output_path, "event.xlsx")
-    create_report.generate_report(user_xlsx, event_xlsx, "report.pdf")
+
+    transform_mocked_data.aggregate_user_logs(user_xlsx, event_xlsx, output_xls="info.xlsx", path=output_path)
+
+    user_xlsx = os.path.join(output_path, "user.xlsx")
+    event_xlsx = os.path.join(output_path, "event.xlsx")
+    create_report_job.generate_report(user_xlsx, event_xlsx, "report.pdf")
