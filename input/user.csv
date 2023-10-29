@@ -1,0 +1,201 @@
+cpf,primeiro_nome,ultimo_nome,email,rua,cep,cidade,idade,estado_civil,profissao,tipo_conta
+561.723.840-07,emanuelly,rodrigues,uda-costa@example.net,Colônia Moreira,58492-223,Santos,33,,MEDICO,premium
+390.427.185-79,Raul,silva,davi-luiz84@example.org,Jardim de da Mota,29335818,Nogueira,70,SOLTEIRO,medico,plus
+267.349.801-03,enzo gabriel,CARVALHO,maria-fernandacardoso@example.net,Viela Esther Costela,53012-058,da Rosa de Goiás,45,Divorciado,Engenheiro,premium
+746.928.503-29,henrique,CAVALCANTI,daniel96@example.net,Via Emanuel Nogueira,15727-834,da Cruz,44,solteiro,Medico,premium
+310.265.479-70,Luiz miguel,Gonçalves,kaique45@example.net,Alameda Dias,94900103,da Mota de Minas,50,,,plus
+290.541.876-11,Paulo,costela,kevin29@example.org,Loteamento de Teixeira,75928-300,Cunha do Sul,29,CASADO,,premium
+689.521.704-58,JOÃO MIGUEL,Da mota,tfernandes@example.org,Colônia Lima,38487435,Farias,39,Casado,Engenheiro,premium
+127.603.849-69,kaique,COSTELA,joao-pedrosantos@example.org,Colônia Bryan Gomes,48511-142,Silva,65,casado,Advogado,plus
+278.496.153-28,rodrigo,DA MATA,luiz-henrique40@example.com,Parque Samuel da Mata,82387-599,da Mata,22,solteiro,professor,premium
+932.750.846-74,Guilherme,almeida,teixeiralais@example.net,Vereda Thiago das Neves,65161-506,Ferreira do Sul,48,CASADO,MEDICO,premium
+049.786.531-93,NATHAN,Pereira,sdias@example.org,Praia Gabriel Porto,67826449,Fernandes,63,solteiro,ADVOGADO,basica
+624.107.983-22,danilo,Cunha,silveiravitoria@example.com,Campo Manuela Lima,73783-239,Pereira de Ribeiro,61,divorciado,ENGENHEIRO,plus
+679.058.132-40,davi,Cardoso,hda-cunha@example.net,Travessa Levi Rezende,46691700,da Luz,62,casado,medico,basica
+482.731.905-79,Calebe,Azevedo,marianeribeiro@example.org,Jardim Moreira,41960524,Moraes de Correia,55,divorciado,Professor,basica
+910.324.687-69,gustavo henrique,ALVES,martinsbrenda@example.com,Vereda de Fernandes,24348-882,Ramos,49,,Advogado,plus
+960.347.825-38,João felipe,FERREIRA,agatha39@example.net,Vila Kaique Peixoto,28545-169,da Cruz de Minas,73,SOLTEIRO,,basica
+160.539.742-34,JOÃO FELIPE,Pinto,gviana@example.org,Setor de Pinto,21242-385,Aragão,71,,ADVOGADO,premium
+817.649.325-28,Maria sophia,da cunha,marianelima@example.net,Vereda de Ferreira,00662-974,Nascimento,25,,advogado,premium
+908.436.512-70,Davi,jesus,melosarah@example.com,Vereda Ramos,98557825,Mendes da Serra,73,solteiro,MEDICO,basica
+514.720.693-07,Ana,VIEIRA,emanuelsouza@example.org,Distrito de Rocha,14469192,Moraes Grande,44,,,premium
+608.354.712-17,ana carolina,ribeiro,carolinearagao@example.com,Condomínio Rafael Gonçalves,69622194,Pinto,28,CASADO,professor,basica
+840.762.391-13,ian,CAVALCANTI,gsantos@example.net,Viaduto de Sales,85334-595,da Rosa do Sul,21,Divorciado,engenheiro,basica
+194.825.607-01,VITOR HUGO,Novaes,anaoliveira@example.org,Lagoa de Barbosa,12871-623,da Cruz,25,casado,,premium
+935.147.682-00,MARIA,COSTA,alima@example.org,Via da Paz,98685716,Vieira,50,divorciado,ADVOGADO,basica
+279.431.085-23,Maria cecília,silva,ramoselisa@example.com,Núcleo Martins,70308-228,Duarte,56,Divorciado,,basica
+836.021.479-40,emanuella,Teixeira,fernando08@example.org,Feira Mendes,62036-758,Carvalho de Castro,21,SOLTEIRO,PROFESSOR,basica
+367.589.042-29,JUAN,Castro,isisbarros@example.com,Estrada Dias,53154-178,Cavalcanti de das Neves,75,solteiro,engenheiro,premium
+921.083.675-86,ISABEL,castro,da-rochabernardo@example.org,Favela Nathan Monteiro,44541-481,Rodrigues,60,SOLTEIRO,,premium
+964.170.238-69,arthur,DA COSTA,nunescamila@example.com,Viaduto de Vieira,90026-881,Silva,26,,MEDICO,premium
+518.604.237-44,ENRICO,da costa,joana26@example.net,Largo Mariana da Cunha,70467-483,Lopes,66,,,basica
+496.537.280-83,BERNARDO,Farias,tsouza@example.com,Largo da Cruz,70303500,Aragão da Mata,54,SOLTEIRO,Medico,plus
+128.569.073-77,davi lucas,moraes,da-motaclara@example.net,Alameda Eduarda da Mata,67563880,Ribeiro de da Conceição,67,solteiro,,basica
+478.620.935-00,Sabrina,RODRIGUES,martinseduarda@example.com,Esplanada de Alves,00407868,Monteiro de Pinto,56,DIVORCIADO,MEDICO,plus
+324.678.905-38,Enzo gabriel,oliveira,cunhaesther@example.com,Travessa Cauã Cardoso,65403074,Lopes Paulista,69,SOLTEIRO,professor,plus
+692.407.351-43,Thales,GONÇALVES,francisco75@example.net,Sítio Azevedo,96797755,da Mata,33,Casado,engenheiro,plus
+047.691.583-00,RAUL,Lopes,lramos@example.org,Sítio Gonçalves,95610049,Carvalho dos Dourados,34,,MEDICO,premium
+063.187.295-77,daniela,Fernandes,eduarda68@example.net,Estrada da Mata,07703-093,Ramos Grande,73,,,premium
+328.159.046-24,João,pires,pintocaue@example.org,Largo Teixeira,62986504,Melo,63,Casado,medico,premium
+012.476.398-78,CAROLINE,Martins,edas-neves@example.com,Núcleo Maria Sophia Rocha,38831-150,Azevedo de Minas,54,SOLTEIRO,MEDICO,basica
+345.170.826-44,Sabrina,MONTEIRO,diogo59@example.net,Viela Nicole Peixoto,92150-692,Costela da Prata,54,solteiro,Engenheiro,plus
+972.403.168-31,luiz otávio,rodrigues,helena30@example.org,Estação Alves,36828-973,Araújo de Ferreira,65,,PROFESSOR,premium
+436.952.178-55,Cauã,Peixoto,nathancardoso@example.net,Pátio Yuri Campos,48128029,da Paz da Praia,58,divorciado,,basica
+501.946.387-66,MARIANE,teixeira,maria-sophia17@example.com,Praia Lara Nogueira,42643295,Ribeiro,54,solteiro,,premium
+853.490.261-51,ELOAH,moura,cardosorebeca@example.org,Rodovia de Martins,74990212,da Rocha,44,solteiro,MEDICO,premium
+073.861.492-04,bárbara,Ferreira,xmelo@example.org,Quadra Maria Dias,32567703,Barbosa,24,divorciado,,premium
+732.805.149-32,SABRINA,Da mota,fda-rocha@example.org,Estação de Monteiro,22226173,Fogaça da Prata,23,casado,Medico,plus
+560.489.127-49,SAMUEL,MOURA,mporto@example.org,Rodovia de Moura,48871627,Jesus,46,Casado,Medico,plus
+326.914.850-05,Vicente,castro,brenda12@example.net,Viela Joaquim Nunes,68892-126,Ribeiro,27,solteiro,medico,plus
+109.827.536-59,KEVIN,PEREIRA,caua34@example.com,Avenida Maria Clara Gomes,60830-392,Lopes de Santos,24,,engenheiro,plus
+082.461.397-03,MARIANE,Oliveira,caio86@example.com,Lagoa Rodrigues,12334650,Costela,55,Solteiro,Professor,plus
+860.251.493-05,Stephany,Pereira,voliveira@example.com,Passarela Pedro Rodrigues,19147-330,Nogueira de Santos,64,Divorciado,Advogado,premium
+159.024.638-15,emanuelly,SILVEIRA,calebecosta@example.net,Trecho de Peixoto,40500639,Ferreira da Praia,50,Divorciado,ADVOGADO,plus
+853.640.729-83,Eduardo,MELO,eduardamelo@example.net,Área Porto,71274-067,Martins,56,CASADO,ADVOGADO,premium
+693.184.275-73,HENRIQUE,Fogaça,nogueiravitor@example.org,Vale Olivia Viana,99234-855,Barbosa das Flores,54,,Medico,premium
+783.961.254-73,YAGO,LIMA,tsales@example.net,Campo Araújo,35372335,Lima de da Conceição,71,,,premium
+864.539.210-06,JOÃO LUCAS,Melo,hcastro@example.net,Viela Pereira,21940-825,Castro do Campo,67,solteiro,engenheiro,plus
+716.829.543-82,Isabel,melo,julia97@example.net,Recanto Miguel Fogaça,16488611,da Luz do Sul,48,casado,ENGENHEIRO,plus
+842.613.579-09,AUGUSTO,DA ROCHA,thales55@example.com,Loteamento Pedro Lucas da Rosa,19197323,da Cruz de Nogueira,74,casado,Advogado,premium
+091.345.782-50,VITOR GABRIEL,DA ROSA,calebeteixeira@example.com,Parque Natália da Mata,59713851,Duarte,64,Divorciado,professor,basica
+089.413.756-57,rafael,Da cunha,raulgoncalves@example.com,Setor de Duarte,83185007,Cunha,74,,professor,plus
+179.205.846-20,catarina,Costa,fogacamarcelo@example.net,Praia João Guilherme Gonçalves,91939477,Cardoso do Oeste,51,CASADO,ADVOGADO,plus
+142.387.905-88,otávio,cunha,xteixeira@example.net,Via de da Cruz,58174-657,da Mata,22,Solteiro,,plus
+489.612.503-70,Leandro,Da rosa,davi-lucasfarias@example.com,Feira Nathan Pereira,11933958,Aragão,66,Divorciado,medico,premium
+604.579.132-07,FERNANDA,almeida,pireslorenzo@example.org,Ladeira Almeida,54957913,Monteiro,32,Casado,engenheiro,premium
+970.543.621-52,DAVI,teixeira,tpires@example.com,Aeroporto de Carvalho,16444-061,da Rocha,49,Solteiro,Medico,basica
+874.123.906-78,leandro,gomes,ana-julia04@example.org,Vereda de Mendes,86012443,Monteiro do Campo,52,SOLTEIRO,Medico,premium
+139.058.672-30,IAN,MOREIRA,barbosavitor-hugo@example.com,Avenida Fernanda Fogaça,00481-540,Barros Alegre,51,,ENGENHEIRO,basica
+364.718.590-66,Juliana,fernandes,lucas34@example.com,Lagoa Clarice da Cunha,39015-152,Viana do Oeste,66,SOLTEIRO,professor,plus
+672.485.039-83,emanuella,ARAGÃO,isabelladias@example.org,Feira de Moura,49225503,Azevedo,43,SOLTEIRO,ADVOGADO,basica
+907.168.235-86,Enzo gabriel,Dias,yuri80@example.com,Núcleo Maria Aragão,67208-843,Freitas,30,Solteiro,Professor,plus
+086.724.519-02,João guilherme,Souza,jazevedo@example.org,Chácara Ana Júlia Rocha,06724-379,Costela,36,Divorciado,,premium
+067.314.952-80,SAMUEL,da rosa,martinsyago@example.com,Distrito de Ribeiro,02788-390,Novaes,32,,MEDICO,plus
+613.985.024-05,Leonardo,BARBOSA,kevinda-cruz@example.com,Vereda Farias,84481016,Cunha Grande,27,Casado,PROFESSOR,basica
+127.596.304-80,Alícia,Caldeira,alicesouza@example.com,Feira Caldeira,27360290,Castro do Amparo,69,casado,ADVOGADO,plus
+063.415.278-53,HEITOR,SILVA,isabellyvieira@example.com,Pátio de Castro,09742611,Nogueira do Galho,51,Solteiro,Professor,premium
+312.085.476-07,CALEBE,Da rosa,aragaojoaquim@example.com,Ladeira de Alves,77062-722,da Rocha,21,solteiro,Medico,premium
+279.641.308-03,Calebe,barbosa,joanamoraes@example.org,Núcleo Ribeiro,04952737,Ribeiro,35,,Engenheiro,basica
+907.861.534-66,Marcelo,NUNES,orodrigues@example.org,Trecho Melo,44326-533,da Luz,70,Divorciado,Engenheiro,plus
+037.916.548-10,Gabrielly,Moraes,amanda15@example.org,Praia de Caldeira,54566951,Moreira de Campos,70,solteiro,,basica
+915.632.408-15,Luiz henrique,Nascimento,da-motacalebe@example.net,Ladeira da Luz,80005434,Nunes,61,Divorciado,,basica
+832.619.705-02,agatha,Da costa,enrico53@example.org,Trecho Castro,44187-612,Ribeiro,55,,Medico,basica
+043.179.568-10,JÚLIA,MORAES,helena90@example.org,Aeroporto Calebe Oliveira,48495448,Martins de Carvalho,48,,Advogado,plus
+738.951.240-79,yasmin,BARBOSA,joao-vitorfreitas@example.org,Distrito de Aragão,85136-432,Gonçalves,41,DIVORCIADO,ENGENHEIRO,basica
+736.905.821-21,lucca,Pinto,cardosoluiz-henrique@example.org,Passarela Cardoso,59030-483,Martins,36,solteiro,ENGENHEIRO,premium
+037.268.914-04,Davi luiz,pinto,evelyn61@example.net,Recanto de Porto,43862-912,Costela,24,Casado,,plus
+786.054.219-67,lucas gabriel,Mendes,camila29@example.org,Campo Freitas,34916-878,Moura,57,,Advogado,premium
+523.746.809-83,Ana júlia,OLIVEIRA,lfernandes@example.org,Largo Santos,00138710,Aragão,21,Divorciado,,plus
+318.276.059-95,CATARINA,Duarte,nunescecilia@example.com,Pátio Nathan Melo,16808391,Correia,59,DIVORCIADO,,basica
+706.853.419-84,ANA CAROLINA,Da cunha,silvaenzo@example.com,Viela Caldeira,77609800,Costela,42,Divorciado,Engenheiro,plus
+498.057.621-49,leandro,NUNES,henrique95@example.com,Via de Aragão,93919-440,Ramos Paulista,51,SOLTEIRO,ENGENHEIRO,plus
+864.257.109-85,ANA LÍVIA,Pereira,uda-cruz@example.com,Morro Fernandes,82164-754,Fogaça do Amparo,20,Divorciado,Advogado,basica
+328.465.907-29,luana,da costa,ribeiroagatha@example.net,Conjunto Araújo,41416-533,Castro Paulista,66,,medico,basica
+701.534.968-00,stella,santos,xaraujo@example.org,Viela de Costela,59455-510,das Neves de Araújo,23,,Medico,premium
+894.735.602-65,pietra,Cardoso,claricemonteiro@example.com,Trecho de Azevedo,98747-588,Monteiro da Praia,37,Solteiro,professor,plus
+617.340.589-00,ALANA,caldeira,miguel85@example.org,Área de Santos,88063506,Fogaça das Flores,29,Solteiro,advogado,basica
+450.678.213-53,Beatriz,CALDEIRA,augustocastro@example.net,Avenida Olivia Duarte,24100-194,Lima,56,Solteiro,,basica
+537.420.168-90,luna,Carvalho,clara83@example.net,Pátio Ana Laura Gonçalves,72497099,da Luz,57,casado,advogado,plus
+987.410.325-60,LEONARDO,PORTO,da-rosakaique@example.org,Jardim Davi da Mata,21574-897,Teixeira da Mata,39,casado,ENGENHEIRO,premium
+394.681.075-66,NOAH,das neves,renan85@example.org,Vila Peixoto,43439-383,Cardoso de Pereira,47,,,plus
+397.428.615-28,Maria,PINTO,goncalvesemanuella@example.org,Núcleo Moreira,31268-415,Moura,60,,,plus
+160.837.294-40,Nina,rocha,piresgustavo-henrique@example.net,Vale Breno Campos,39234-151,Souza,46,Solteiro,Professor,plus
+304.815.629-15,Evelyn,Teixeira,valentina36@example.org,Estrada Cauã da Mota,41668572,Mendes,73,,medico,plus
+825.406.793-74,Thomas,cavalcanti,joao-miguel67@example.org,Esplanada Bárbara da Mota,55119-109,Jesus de Martins,33,Casado,MEDICO,plus
+015.698.234-05,lucas gabriel,CALDEIRA,agathadas-neves@example.org,Morro Monteiro,41199-622,Cunha do Oeste,69,casado,MEDICO,plus
+604.982.135-60,ALICE,Gomes,lauracorreia@example.net,Viaduto Caldeira,63145-576,Campos do Campo,62,,advogado,premium
+650.832.147-17,Davi lucca,ROCHA,lopesnoah@example.com,Estrada Luiz Fernando Nascimento,05468460,Novaes,25,solteiro,ADVOGADO,plus
+201.457.963-61,MARIA JULIA,PORTO,lais97@example.com,Avenida Cardoso,38487256,da Conceição,46,,professor,plus
+174.306.298-22,ANA LUIZA,DA PAZ,psilveira@example.com,Vale de Castro,71771850,da Paz,33,solteiro,medico,basica
+305.289.167-77,DANIEL,GOMES,camilada-rocha@example.org,Residencial Ferreira,42519-801,da Mota,36,solteiro,Professor,plus
+916.082.743-22,júlia,PINTO,isis72@example.org,Viaduto Souza,33365-091,Ramos,69,Casado,medico,plus
+037.296.581-40,VICENTE,oliveira,dda-cunha@example.net,Alameda de da Luz,86523-402,das Neves de das Neves,30,Solteiro,MEDICO,basica
+093.274.186-03,Camila,CAMPOS,beatrizsouza@example.com,Jardim de Gonçalves,02884-682,Fernandes,44,Divorciado,,premium
+235.081.467-07,CLARICE,Nogueira,costamaria-alice@example.net,Loteamento Pires,44396351,Moreira,75,solteiro,,plus
+769.214.358-73,raul,da mata,davi-luiz00@example.com,Esplanada Araújo,87645775,Rezende do Campo,23,solteiro,Engenheiro,plus
+674.930.185-10,fernando,CAMPOS,larissa36@example.com,Jardim de da Mota,28205452,Ramos do Sul,69,SOLTEIRO,engenheiro,premium
+745.392.681-55,EMILLY,barbosa,qmartins@example.com,Lagoa de Moreira,98237-844,Cardoso,63,solteiro,,premium
+270.683.154-53,Leandro,DA ROSA,lucca07@example.com,Loteamento Vitória da Costa,33377-021,Fernandes de Martins,64,solteiro,,premium
+594.317.602-07,Carlos eduardo,costa,xcardoso@example.net,Parque Sophie Ramos,23073967,Souza Alegre,50,CASADO,medico,plus
+624.973.018-40,Bianca,LIMA,yfarias@example.com,Alameda de da Costa,82287-846,da Paz Paulista,45,casado,engenheiro,plus
+930.257.164-52,RAQUEL,AZEVEDO,maria-luiza82@example.net,Lago de Araújo,34174377,Costa Verde,40,Divorciado,ENGENHEIRO,premium
+276.390.145-06,Maria vitória,da rocha,gustavo-henriqueoliveira@example.org,Parque Ribeiro,26376-556,Rocha,27,,,premium
+287.453.160-07,bernardo,nogueira,ufernandes@example.org,Trecho Isis Pinto,31029-959,Costela do Campo,47,Divorciado,ENGENHEIRO,basica
+534.167.829-09,DAVI LUCAS,rezende,barbosacaroline@example.org,Fazenda Luiz Gustavo Fogaça,28969-531,da Paz de Minas,21,,ADVOGADO,basica
+926.847.103-50,BEATRIZ,alves,pietra47@example.org,Viela de Vieira,79824035,Rocha das Pedras,47,CASADO,advogado,plus
+762.531.904-07,Maria eduarda,sales,kevin09@example.net,Conjunto Martins,37035886,Pinto,37,,Advogado,plus
+172.368.490-22,GUSTAVO,Das neves,salesvitor-gabriel@example.org,Vale de Mendes,62540-034,da Paz,23,divorciado,PROFESSOR,basica
+045.193.862-33,DANILO,silveira,heitorrezende@example.org,Vila de Moraes,20817-661,da Mata Grande,55,DIVORCIADO,Medico,plus
+026.517.948-30,LÍVIA,MELO,oduarte@example.net,Largo Isis das Neves,52815-701,da Costa,59,DIVORCIADO,ENGENHEIRO,basica
+764.925.318-09,davi lucca,almeida,pda-conceicao@example.org,Morro de da Mota,46529264,Pires do Sul,58,divorciado,medico,plus
+856.473.092-83,ANTÔNIO,GOMES,valentinadias@example.org,Passarela Maria Fernanda da Cruz,02400025,Correia Verde,44,DIVORCIADO,,premium
+183.452.907-79,Emilly,Da rosa,moraescaio@example.net,Colônia Costela,22157842,Martins Verde,21,divorciado,Medico,plus
+106.248.597-11,ana júlia,gonçalves,rsilva@example.net,Praça Lima,09645-457,Cardoso,33,Solteiro,medico,premium
+926.410.837-87,catarina,ALVES,das-neveslaura@example.org,Parque Nina da Rosa,74259-520,Silva,38,SOLTEIRO,Advogado,premium
+253.814.690-98,gabrielly,ramos,raulbarros@example.org,Parque Cauê Carvalho,27973-278,Moura do Galho,39,casado,Engenheiro,basica
+897.506.143-48,HELOÍSA,Da paz,cnascimento@example.net,Via de Teixeira,89796124,Cardoso das Pedras,30,,ADVOGADO,basica
+126.035.849-60,vicente,Cunha,emanuelly35@example.net,Travessa Costa,01522711,Pires,55,divorciado,advogado,basica
+807.526.431-26,letícia,Da costa,benicio87@example.org,Vale Correia,81276-719,Sales das Flores,64,Solteiro,ADVOGADO,plus
+029.457.361-52,Mirella,TEIXEIRA,almeidaguilherme@example.org,Praia de Ribeiro,92316-493,Rocha de Goiás,35,casado,,plus
+370.128.569-12,LAÍS,Mendes,enricocardoso@example.org,Avenida Yago Duarte,19254-007,Porto,71,solteiro,medico,premium
+536.712.840-80,THOMAS,MONTEIRO,correiarafael@example.org,Trevo de Melo,30855458,da Conceição dos Dourados,55,casado,,basica
+870.459.362-65,FERNANDA,castro,ylima@example.org,Praia Clarice Dias,46637-469,Ribeiro,44,SOLTEIRO,advogado,basica
+192.856.704-58,alana,Santos,jduarte@example.net,Favela de Duarte,48969058,Castro de Caldeira,73,CASADO,advogado,plus
+708.496.315-48,Heitor,pinto,ian70@example.org,Viela de da Cunha,53363-123,Gonçalves,46,,Professor,basica
+543.879.062-00,Thomas,lopes,luana27@example.org,Avenida Rezende,75453649,Alves,49,,ENGENHEIRO,premium
+840.367.295-00,Bruna,da rocha,benicio91@example.org,Lago Isadora Sales,73357002,Porto das Flores,69,DIVORCIADO,Advogado,basica
+280.456.931-42,EMANUELLY,Barbosa,dcunha@example.org,Condomínio de Freitas,90540-584,da Cruz,26,solteiro,medico,premium
+463.279.501-16,ana júlia,barros,mariaramos@example.net,Esplanada Pedro Farias,82156647,Nascimento de Campos,43,casado,,plus
+395.268.014-15,Juan,Fogaça,vitor60@example.org,Vila de Viana,22617-106,da Mata,64,solteiro,ADVOGADO,premium
+430.689.752-47,Benjamin,das neves,fernandolopes@example.org,Estação de da Cunha,16514-572,Gomes,69,,ADVOGADO,premium
+732.918.645-73,JOÃO MIGUEL,BARBOSA,ferreirarafael@example.org,Vila Ramos,07019068,Vieira,75,,ENGENHEIRO,plus
+671.843.209-13,ANTÔNIO,alves,brunoda-cunha@example.com,Travessa Nathan Peixoto,86605-601,Nunes do Amparo,35,CASADO,PROFESSOR,premium
+608.951.472-11,DIEGO,silveira,maria-eduarda51@example.net,Via Carvalho,18036139,Barros de Goiás,61,SOLTEIRO,Advogado,basica
+396.270.415-99,ANA SOPHIA,Silva,jmendes@example.org,Rua de Pinto,23165-499,Lopes do Galho,25,,ADVOGADO,basica
+470.983.261-78,Natália,Nogueira,martinsmirella@example.net,Passarela Rezende,85424829,Viana,70,solteiro,medico,plus
+591.270.486-67,MARIA VITÓRIA,DA ROSA,raquel57@example.org,Estrada Júlia Monteiro,50431233,Nascimento,52,Casado,,premium
+287.504.316-17,Alana,RIBEIRO,natalia57@example.com,Viaduto de Correia,02680-987,Viana de Goiás,62,Casado,Advogado,basica
+387.021.694-87,Paulo,Costela,emanuellylopes@example.net,Residencial Lívia Monteiro,77179841,Moraes,55,divorciado,Advogado,basica
+547.368.201-44,RAQUEL,Da paz,alicia42@example.com,Lagoa Murilo Lopes,53285811,Sales do Sul,49,Casado,medico,premium
+149.735.280-05,MANUELA,pereira,ana-vitoria54@example.net,Passarela Enzo Gabriel Novaes,75262-889,Rezende,70,Divorciado,,premium
+632.471.905-70,Vicente,novaes,natalia61@example.com,Esplanada de das Neves,70825-313,Melo dos Dourados,38,Divorciado,Professor,premium
+206.435.918-42,BEATRIZ,Rocha,oliveirasophia@example.net,Condomínio Thomas Almeida,33704586,Fernandes,22,Solteiro,,plus
+812.456.079-01,Isis,Correia,moreiraraul@example.com,Pátio Campos,33820833,Teixeira do Oeste,40,Casado,engenheiro,premium
+268.130.795-30,RYAN,DA CUNHA,acostela@example.org,Pátio Brenda da Cunha,37035-652,Lima,47,,,plus
+310.264.587-90,Nina,Moraes,calves@example.com,Largo Moura,54117-286,Viana da Serra,48,,MEDICO,premium
+605.932.148-89,GUSTAVO,Jesus,felipe12@example.com,Setor de Moura,67914-615,Campos,56,,,premium
+859.301.742-88,Enzo,fogaça,ana-sophiaalves@example.net,Recanto de Almeida,59592-317,da Costa,25,divorciado,ENGENHEIRO,plus
+507.941.236-43,ana clara,da mata,rafaelfreitas@example.org,Sítio Fernanda Rezende,13871038,Rodrigues,67,,ENGENHEIRO,basica
+167.928.540-85,LORENA,cavalcanti,otavio68@example.com,Viela Arthur Nunes,87323341,Cardoso de Minas,27,Casado,Medico,premium
+470.963.821-78,giovanna,gomes,azevedojoao-vitor@example.net,Ladeira Isis Ferreira,38277-793,Peixoto,62,Solteiro,professor,premium
+810.647.295-76,AUGUSTO,CALDEIRA,ncardoso@example.net,Passarela de Silva,35211187,da Mata,73,,engenheiro,plus
+670.493.852-47,YAGO,costela,luiz-otaviocorreia@example.org,Via de Lopes,34354563,Santos da Mata,46,,professor,premium
+729.354.801-04,LUIZ OTÁVIO,RAMOS,eloah08@example.org,Estrada Maria Sophia Martins,39228047,Vieira,19,CASADO,engenheiro,basica
+280.451.739-04,DAVI LUCCA,cavalcanti,thomasteixeira@example.org,Esplanada Cardoso,17534-123,da Cruz,25,divorciado,ENGENHEIRO,premium
+024.895.317-60,Maria vitória,Souza,moreiradanilo@example.net,Vereda de Nascimento,50932976,Campos,51,Solteiro,Professor,plus
+269.531.487-64,Vitor gabriel,novaes,barbararezende@example.com,Trecho Pereira,20335-018,Fernandes,40,,MEDICO,plus
+570.923.164-99,Alexia,Viana,esther28@example.com,Chácara Viana,15527478,Fernandes da Prata,62,SOLTEIRO,ENGENHEIRO,basica
+749.810.653-10,Clarice,Caldeira,fpires@example.net,Vale de Moraes,07443-975,Viana,27,divorciado,Medico,plus
+912.405.683-98,MARIA,Vieira,luiz-otavio56@example.net,Campo Moraes,29965033,Pinto,43,,professor,premium
+513.427.069-43,Lavínia,Campos,luigi59@example.com,Vereda Lima,88900-940,Melo,74,,ENGENHEIRO,basica
+672.908.451-02,DAVI,Monteiro,monteiroraquel@example.net,Residencial Carvalho,95532-629,Souza do Campo,66,Divorciado,Advogado,plus
+461.537.298-19,gabriela,da cunha,otavio59@example.com,Rua Viana,78180-252,Sales,18,SOLTEIRO,Engenheiro,plus
+234.107.698-03,MILENA,martins,ucarvalho@example.org,Viaduto de Freitas,03166527,da Cruz do Galho,43,CASADO,Professor,basica
+573.491.826-19,Rebeca,Da cruz,marianacosta@example.net,Área de Viana,82637-677,Barros do Sul,23,Solteiro,ADVOGADO,premium
+683.451.279-91,Luiza,Correia,joao-guilherme10@example.org,Colônia das Neves,15472641,da Cunha do Campo,21,DIVORCIADO,,premium
+967.205.438-65,Alana,MENDES,hcunha@example.net,Trevo de Azevedo,75203-152,da Costa,45,,ADVOGADO,basica
+693.487.152-91,Cecília,novaes,oliveiramaria-vitoria@example.net,Residencial Breno da Paz,99833-359,Porto,36,Solteiro,MEDICO,premium
+524.807.693-56,YAGO,Carvalho,luiz-otavio53@example.com,Lagoa Luiz Felipe Ribeiro,52048355,Cardoso da Mata,28,Divorciado,Advogado,plus
+428.531.790-79,AMANDA,oliveira,araujoclara@example.com,Vereda de da Rosa,43620-439,Ferreira,74,DIVORCIADO,Medico,premium
+564.397.120-80,isis,Aragão,gomesaugusto@example.net,Residencial da Cunha,57511181,Castro,21,,,premium
+743.682.059-10,BRUNO,gonçalves,iancaldeira@example.org,Sítio Daniela da Conceição,84869-681,da Cruz,28,divorciado,professor,basica
+076.894.523-29,lavínia,barbosa,ianferreira@example.com,Loteamento Lucca da Mota,62782929,Costa Paulista,51,SOLTEIRO,,premium
+375.296.408-10,ALANA,silva,marinacardoso@example.org,Viaduto de Viana,86276-378,Lima da Mata,21,Solteiro,PROFESSOR,plus
+289.310.574-23,NATHAN,Correia,asilva@example.org,Largo das Neves,37842152,Cardoso,30,SOLTEIRO,,plus
+490.821.756-49,maysa,santos,da-conceicaojoao-miguel@example.org,Condomínio Ana Lívia Rodrigues,34125-596,Rodrigues de Freitas,63,DIVORCIADO,Advogado,premium
+104.275.836-08,João guilherme,das neves,dda-mota@example.org,Condomínio de da Conceição,39708585,Pereira,60,SOLTEIRO,engenheiro,plus
+697.028.451-49,BRYAN,BARROS,murilonunes@example.com,Avenida Duarte,57921-403,Martins Alegre,74,Divorciado,advogado,plus
+359.071.862-59,BEATRIZ,Dias,da-motalorena@example.org,Estrada Cavalcanti,74526-295,Nunes Verde,73,,ADVOGADO,basica
+378.950.126-30,ana laura,Fogaça,daragao@example.org,Residencial Cunha,71814-043,da Mata,38,,advogado,basica
+746.192.083-96,Vitor,cunha,araujoigor@example.com,Estação Sales,99524252,Dias de Silveira,69,divorciado,,premium
+593.728.601-40,MARCELO,Da luz,valentinalopes@example.com,Passarela Matheus Castro,92625-453,Lima de da Paz,42,Divorciado,,basica
