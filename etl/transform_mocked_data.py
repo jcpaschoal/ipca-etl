@@ -1,7 +1,5 @@
 import pandas as pd
-
 import os
-import pandas as pd
 
 
 def transform_users_csv(input_csv, output_xls, path="."):
@@ -28,7 +26,6 @@ def transform_logs_csv(input_csv, output_xls, path="."):
     df.to_excel(full_path, index=False)
 
 
-import pandas as pd
 
 
 def aggregate_user_logs(user_xls, log_xls, output_xls, path="."):
