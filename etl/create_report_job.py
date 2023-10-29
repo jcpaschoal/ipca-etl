@@ -4,12 +4,6 @@ import pandas as pd
 import os
 
 
-import matplotlib.pyplot as plt
-from fpdf import FPDF
-import pandas as pd
-import os
-
-
 def generate_report(user_xls, log_xls, output_pdf):
     users_df = pd.read_excel(user_xls)
     logs_df = pd.read_excel(log_xls)
